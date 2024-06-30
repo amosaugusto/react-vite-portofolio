@@ -9,7 +9,7 @@
             "Node"
         ],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://github.com/amosaugusto"
     },
     {
         "title": "Project B",
@@ -22,7 +22,7 @@
             "Sass"
         ],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://github.com/amosaugusto"
     },
     {
         "title": "Project C",
@@ -34,6 +34,6 @@
             "Node"
         ],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://github.com/amosaugusto"
     }
 ]
