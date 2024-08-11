@@ -21,14 +21,14 @@ export const About = () => {
                         <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Backend Developer</h3>
-                            <p>I have experience developing fast and optimizzed back-end systems and APIs</p>
+                            <p>I have experiences developing fast and optimizzed back-end systems and APIs</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>....... Developer</h3>
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, error?</p>
+                            <h3>Fullstack Developer</h3>
+                            <p>I have experience attending a bootcamp as a fullstack developer for 6 months and succeeded in creating an ecommerce website</p>
                         </div>
                     </li>
                 </ul>

@@ -1,39 +1,41 @@
 [
     {
-        "title": "Project A",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "title": "SecondHand E-Commerce",
+        "imageSrc": "projects/secondhand.png",
+        "description": "Secondhand is an e-commerce that sells used goods, users can bargain for the goods they want to buy",
         "skills": [
             "React",
             "Express",
             "Node"
         ],
         "demo": "https://www.example.com",
-        "source": "https://github.com/amosaugusto"
+        "source": "https://github.com/binar-fsw-6-final-project-kelompok-4"
     },
     {
-        "title": "Project B",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "title": "Neurospark",
+        "imageSrc": "projects/neurospark.png",
+        "description": "Neurospark is a responsive website that has a modern design.",
         "skills": [
+            "Vite",
             "React",
-            "Express",
-            "Node",
-            "Sass"
+            "Tailwind CSS"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://github.com/amosaugusto"
+        "demo": "https://neurospark.vercel.app/",
+        "source": "https://github.com/amosaugusto/neurospark"
     },
     {
-        "title": "Project C",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "title": "NgeBar",
+        "imageSrc": "projects/ngebar.png",
+        "description": "NgeBar (Ngetik Bareng) is a web-based word processing application. It allows users to create, edit and share documents online.",
         "skills": [
-            "React",
-            "Express",
-            "Node"
+            "Typescript",
+            "Next",
+            "Tailwind CSS",
+            "Liveblocks",
+            "Sentry",
+            "Shadcn/ui"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://github.com/amosaugusto"
+        "demo": "https://ngebar.vercel.app/",
+        "source": "https://github.com/amosaugusto/ngebar"
     }
 ]
