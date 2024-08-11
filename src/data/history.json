@@ -9,5 +9,17 @@
             "Create an API using Golang"
         ],
         "imageSrc": "history/btpn.png"
+    },
+    {
+        "role": "Fullstack Web Development",
+        "organisation": "PT Lentera Bangsa Benderang (Binar Academy)",
+        "startDate": "Feb, 2022",
+        "endDate": "Aug, 2022",
+        "experiences": [
+            "Deep dive into Advanced Front end and Back end Javascript website development using HTML, CSS, and React JS and Express - Node JS",
+            "Create an e-commerce website",
+            "Learning Communication Skills, Management Skills, and Leadership Skills"
+        ],
+        "imageSrc": "history/binar.png"
     }
 ]
